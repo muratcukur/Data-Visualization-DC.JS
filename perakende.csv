@@ -1,0 +1,288 @@
+tarih,yil,ay,gun,il_kod,il_adi,ilce_kodu,ilce_adi,il_lat,il_long,faaliyet_yontemi,kategori,magaza_yerlesim_yeri,magaza_sayisi,toplam_musteri_sayisi,kar
+08.05.2017,2017,5,8,1,Adana,1104,Seyhan,37.5,35.321333,Tv Üzerinden,Aksesuar,Sanal-Depo,35,1060,1931
+04.08.2019,2019,8,4,1,Adana,1219,Ceyhan,37.5,35.321333,İnternet üzerinden satış,Giyim,Sanal-Depo,55,3999,5501
+23.09.2019,2019,9,23,1,Adana,1329,Feke,37.5,35.321333,İnternet üzerinden satış,Giyim,Sanal-Depo,13,3112,3918
+29.01.2020,2020,1,29,1,Adana,1437,Karaisalı,37.5,35.321333,Mağaza Satışı,Ayakkabı,AVM Mağazası,65,2247,24320
+05.02.2020,2020,2,5,1,Adana,1443,Karataş,37.5,35.321333,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,40,1156,7146
+26.03.2020,2020,3,26,1,Adana,1486,Kozan,37.5,35.321333,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,42,1279,5663
+10.05.2020,2020,5,10,1,Adana,1580,Pozantı,37.5,35.321333,İnternet üzerinden satış,Teknoloji,Sanal-Depo,18,3839,20254
+18.04.2017,2017,4,18,2,Adıyaman,1105,Adıyaman Merkez,37.764751,38.278561,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,21,2143,13511
+26.04.2017,2017,4,26,2,Adıyaman,1182,Besni,37.764751,38.278561,İnternet üzerinden satış,Giyim,Sanal-Depo,53,1273,26293
+26.07.2017,2017,7,26,2,Adıyaman,1246,Çelikhan,37.764751,38.278561,Tv Üzerinden,Aksesuar,Sanal-Depo,66,1017,25784
+21.07.2019,2019,7,21,2,Adıyaman,1347,Gerger,37.764751,38.278561,İnternet üzerinden satış,Giyim,Sanal-Depo,49,3682,9349
+24.01.2020,2020,1,24,2,Adıyaman,1354,Gölbaşı / Adıyaman,37.764751,38.278561,İnternet üzerinden satış,Teknoloji,Sanal-Depo,18,3242,11565
+15.10.2020,2020,10,15,2,Adıyaman,1425,Kahta,37.764751,38.278561,İnternet üzerinden satış,Teknoloji,Sanal-Depo,42,1094,19762
+25.10.2020,2020,10,25,2,Adıyaman,1592,Samsat,37.764751,38.278561,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,34,2569,1138
+10.12.2020,2020,12,10,2,Adıyaman,1985,Sincik,37.764751,38.278561,İnternet üzerinden satış,Teknoloji,Sanal-Depo,27,3779,18008
+22.06.2017,2017,6,22,3,Afyonkarahisar,1108,Afyonkarahisar Merkez,38.750714,30.556692,İnternet üzerinden satış,Giyim,Sanal-Depo,63,2063,10195
+27.08.2018,2018,8,27,3,Afyonkarahisar,1200,Bolvadin,38.750714,30.556692,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,70,2629,14056
+18.09.2018,2018,9,18,3,Afyonkarahisar,1239,Çay,38.750714,30.556692,İnternet üzerinden satış,Giyim,Sanal-Depo,10,2295,19651
+12.04.2019,2019,4,12,3,Afyonkarahisar,1267,Dazkırı,38.750714,30.556692,İnternet üzerinden satış,Giyim,Sanal-Depo,70,1489,3904
+24.06.2020,2020,6,24,3,Afyonkarahisar,1281,Dinar,38.750714,30.556692,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,17,3516,14315
+10.09.2020,2020,9,10,3,Afyonkarahisar,1306,Emirdağ,38.750714,30.556692,Tv Üzerinden,Aksesuar,Sanal-Depo,65,2312,16783
+09.08.2017,2017,8,9,4,Ağrı,1111,Ağrı Merkez,39.626922,43.021596,Tv Üzerinden,Aksesuar,Sanal-Depo,52,1013,14652
+30.12.2017,2017,12,30,4,Ağrı,1283,Diyadin,39.626922,43.021596,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,26,2663,14067
+19.02.2018,2018,2,19,4,Ağrı,1287,Doğubayazıt,39.626922,43.021596,İnternet üzerinden satış,Giyim,Sanal-Depo,10,3375,1866
+24.02.2018,2018,2,24,4,Ağrı,1301,Eleşkirt,39.626922,43.021596,Mağaza Satışı,Dekorasyon,AVM Mağazası,58,3637,5656
+28.02.2018,2018,2,28,4,Ağrı,1379,Hamur,39.626922,43.021596,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,35,1899,5089
+03.08.2018,2018,8,3,4,Ağrı,1568,Patnos,39.626922,43.021596,İnternet üzerinden satış,Giyim,Sanal-Depo,50,2098,9347
+11.09.2019,2019,9,11,4,Ağrı,1667,Taşlıçay,39.626922,43.021596,İnternet üzerinden satış,Giyim,Sanal-Depo,47,2915,16519
+16.06.2020,2020,6,16,4,Ağrı,1691,Tutak,39.626922,43.021596,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,54,1741,7397
+04.07.2017,2017,7,4,5,Amasya,1134,Amasya Merkez,40.64991,35.83532,İnternet üzerinden satış,Giyim,Sanal-Depo,16,1854,3122
+12.11.2017,2017,11,12,5,Amasya,1363,Göynücek,40.64991,35.83532,İnternet üzerinden satış,Giyim,Sanal-Depo,67,1613,10240
+27.02.2018,2018,2,27,5,Amasya,1368,Gümüşhacıköy,40.64991,35.83532,Mağaza Satışı,Ayakkabı,AVM Mağazası,33,3993,1782
+10.11.2018,2018,11,10,5,Amasya,1524,Merzifon,40.64991,35.83532,İnternet üzerinden satış,Giyim,Sanal-Depo,40,1612,9973
+16.08.2019,2019,8,16,5,Amasya,1641,Suluova,40.64991,35.83532,İnternet üzerinden satış,Giyim,Sanal-Depo,35,3218,4054
+18.04.2020,2020,4,18,5,Amasya,1668,Taşova,40.64991,35.83532,İnternet üzerinden satış,Giyim,Sanal-Depo,50,3741,5020
+18.02.2017,2017,2,18,6,Ankara,1130,Altındağ,39.92077,32.85411,Tv Üzerinden,Aksesuar,Sanal-Depo,57,3656,18886
+21.03.2017,2017,3,21,6,Ankara,1157,Ayaş,39.92077,32.85411,İnternet üzerinden satış,Teknoloji,Sanal-Depo,42,3336,5249
+04.04.2017,2017,4,4,6,Ankara,1167,Bala,39.92077,32.85411,İnternet üzerinden satış,Giyim,Sanal-Depo,42,3582,12087
+28.01.2019,2019,1,28,6,Ankara,1187,Beypazarı,39.92077,32.85411,İnternet üzerinden satış,Giyim,Sanal-Depo,40,2092,4664
+22.05.2020,2020,5,22,6,Ankara,1227,Çamlıdere,39.92077,32.85411,İnternet üzerinden satış,Giyim,Sanal-Depo,64,1086,2330
+01.12.2020,2020,12,1,6,Ankara,1231,Çankaya,39.92077,32.85411,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,38,1467,5348
+15.06.2017,2017,6,15,7,Antalya,1121,Akseki,36.88414,30.70563,İnternet üzerinden satış,Teknoloji,Sanal-Depo,52,3253,12021
+09.10.2017,2017,10,9,7,Antalya,1126,Alanya,36.88414,30.70563,İnternet üzerinden satış,Teknoloji,Sanal-Depo,36,1097,10190
+26.11.2017,2017,11,26,7,Antalya,1138,Antalya Merkez,36.88414,30.70563,İnternet üzerinden satış,Teknoloji,Sanal-Depo,62,3255,1718
+14.08.2018,2018,8,14,7,Antalya,1303,Elmalı,36.88414,30.70563,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,51,3757,6730
+17.08.2018,2018,8,17,7,Antalya,1333,Finike,36.88414,30.70563,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,17,2622,4902
+19.03.2017,2017,3,19,8,Artvin,1145,Ardanuç,41.18277,41.818292,İnternet üzerinden satış,Giyim,Sanal-Depo,18,1533,5298
+04.06.2019,2019,6,4,8,Artvin,1147,Arhavi,41.18277,41.818292,Tv Üzerinden,Aksesuar,Sanal-Depo,49,1722,13617
+11.11.2019,2019,11,11,8,Artvin,1152,Artvin Merkez,41.18277,41.818292,İnternet üzerinden satış,Giyim,Sanal-Depo,39,2958,2402
+09.04.2020,2020,4,9,8,Artvin,1202,Borçka,41.18277,41.818292,Tv Üzerinden,Aksesuar,Sanal-Depo,56,3412,22859
+29.04.2020,2020,4,29,8,Artvin,1395,Hopa,41.18277,41.818292,İnternet üzerinden satış,Giyim,Sanal-Depo,50,1333,11798
+23.01.2018,2018,1,23,9,Aydın,1159,Aydın Merkez,37.856041,27.841631,Tv Üzerinden,Aksesuar,Sanal-Depo,36,2370,2155
+19.02.2018,2018,2,19,9,Aydın,1206,Bozdoğan,37.856041,27.841631,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,18,3900,10973
+06.07.2018,2018,7,6,9,Aydın,1256,Çine,37.856041,27.841631,İnternet üzerinden satış,Teknoloji,Sanal-Depo,53,2157,3834
+08.02.2019,2019,2,8,9,Aydın,1348,Germencik,37.856041,27.841631,İnternet üzerinden satış,Giyim,Sanal-Depo,56,3810,10894
+14.08.2019,2019,8,14,9,Aydın,1435,Karacasu,37.856041,27.841631,Mağaza Satışı,Dekorasyon,AVM Mağazası,16,3609,8968
+17.11.2019,2019,11,17,9,Aydın,1479,Koçarlı,37.856041,27.841631,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,18,3856,7523
+11.11.2020,2020,11,11,9,Aydın,1497,Kuşadası,37.856041,27.841631,İnternet üzerinden satış,Giyim,Sanal-Depo,50,2493,19827
+13.02.2017,2017,2,13,10,Balıkesir,1161,Ayvalık,39.648369,27.88261,İnternet üzerinden satış,Giyim,Sanal-Depo,40,1416,7005
+22.08.2017,2017,8,22,10,Balıkesir,1168,Balıkesir Merkez,39.648369,27.88261,İnternet üzerinden satış,Giyim,Sanal-Depo,35,2395,3669
+25.08.2017,2017,8,25,10,Balıkesir,1169,Balya,39.648369,27.88261,Mağaza Satışı,Ayakkabı,AVM Mağazası,20,1105,4927
+28.10.2020,2020,10,28,10,Balıkesir,1171,Bandırma,39.648369,27.88261,İnternet üzerinden satış,Teknoloji,Sanal-Depo,55,2332,10681
+07.01.2018,2018,1,7,11,Bilecik,1192,Bilecik Merkez,40.056656,30.066524,İnternet üzerinden satış,Teknoloji,Sanal-Depo,17,2210,12673
+03.01.2019,2019,1,3,11,Bilecik,1210,Bozüyük,40.056656,30.066524,İnternet üzerinden satış,Teknoloji,Sanal-Depo,56,3771,11088
+12.09.2019,2019,9,12,11,Bilecik,1359,Gölpazarı,40.056656,30.066524,İnternet üzerinden satış,Giyim,Sanal-Depo,57,3396,8510
+12.03.2020,2020,3,12,11,Bilecik,1559,Osmaneli,40.056656,30.066524,Tv Üzerinden,Aksesuar,Sanal-Depo,53,1014,4826
+25.04.2020,2020,4,25,11,Bilecik,1571,Pazaryeri,40.056656,30.066524,Tv Üzerinden,Aksesuar,Sanal-Depo,69,1603,4647
+17.05.2018,2018,5,17,12,Bingöl,1193,Bingöl Merkez,39.062635,40.76961,Tv Üzerinden,Aksesuar,Sanal-Depo,39,2198,15470
+11.09.2018,2018,9,11,12,Bingöl,1344,Genç,39.062635,40.76961,İnternet üzerinden satış,Teknoloji,Sanal-Depo,49,1484,11925
+07.12.2018,2018,12,7,12,Bingöl,1446,Karlıova,39.062635,40.76961,Tv Üzerinden,Aksesuar,Sanal-Depo,57,1138,1814
+01.04.2019,2019,4,1,12,Bingöl,1475,Kiğı,39.062635,40.76961,Tv Üzerinden,Aksesuar,Sanal-Depo,27,2072,18160
+24.11.2019,2019,11,24,12,Bingöl,1633,Solhan,39.062635,40.76961,İnternet üzerinden satış,Giyim,Sanal-Depo,13,1522,5944
+05.07.2020,2020,7,5,12,Bingöl,1750,Adaklı,39.062635,40.76961,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,37,3496,7551
+22.06.2017,2017,6,22,13,Bitlis,1106,Adilcevaz,38.393799,42.12318,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,37,2472,8722
+03.03.2018,2018,3,3,13,Bitlis,1112,Ahlat,38.393799,42.12318,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,46,1955,3254
+18.05.2018,2018,5,18,13,Bitlis,1196,Bitlis Merkez,38.393799,42.12318,Tv Üzerinden,Aksesuar,Sanal-Depo,67,2615,18013
+10.11.2020,2020,11,10,13,Bitlis,1394,Hizan,38.393799,42.12318,İnternet üzerinden satış,Teknoloji,Sanal-Depo,53,1220,2978
+17.07.2017,2017,7,17,14,Bolu,1199,Bolu Merkez,40.575977,31.578809,Tv Üzerinden,Aksesuar,Sanal-Depo,32,1799,9269
+15.09.2017,2017,9,15,14,Bolu,1346,Gerede,40.575977,31.578809,İnternet üzerinden satış,Giyim,Sanal-Depo,61,1387,5173
+13.01.2018,2018,1,13,14,Bolu,1364,Göynük,40.575977,31.578809,İnternet üzerinden satış,Giyim,Sanal-Depo,36,1759,15184
+19.03.2019,2019,3,19,14,Bolu,1466,Kıbrıscık,40.575977,31.578809,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,29,3664,3232
+07.09.2020,2020,9,7,14,Bolu,1522,Mengen,40.575977,31.578809,İnternet üzerinden satış,Giyim,Sanal-Depo,31,1377,6334
+11.11.2017,2017,11,11,15,Burdur,1109,Ağlasun,37.461267,30.066524,İnternet üzerinden satış,Teknoloji,Sanal-Depo,41,2702,24565
+08.01.2018,2018,1,8,15,Burdur,1211,Bucak,37.461267,30.066524,İnternet üzerinden satış,Giyim,Sanal-Depo,32,3174,1337
+20.05.2018,2018,5,20,15,Burdur,1215,Burdur Merkez,37.461267,30.066524,İnternet üzerinden satış,Giyim,Sanal-Depo,52,3918,3426
+19.06.2019,2019,6,19,15,Burdur,1357,Gölhisar,37.461267,30.066524,Tv Üzerinden,Aksesuar,Sanal-Depo,28,2301,1256
+04.05.2020,2020,5,4,15,Burdur,1672,Tefenni,37.461267,30.066524,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,20,1208,12128
+09.02.2017,2017,2,9,16,Bursa,1343,Gemlik,40.266864,29.063448,Mağaza Satışı,Ayakkabı,AVM Mağazası,34,3427,13200
+26.05.2017,2017,5,26,16,Bursa,1411,İnegöl,40.266864,29.063448,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,18,2252,26538
+29.09.2018,2018,9,29,16,Bursa,1420,İznik,40.266864,29.063448,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,23,3157,11279
+12.04.2020,2020,4,12,16,Bursa,1434,Karacabey,40.266864,29.063448,İnternet üzerinden satış,Giyim,Sanal-Depo,64,2280,5977
+08.08.2020,2020,8,8,16,Bursa,1457,Keles,40.266864,29.063448,İnternet üzerinden satış,Giyim,Sanal-Depo,26,3076,2879
+04.10.2020,2020,10,4,16,Bursa,1530,Mudanya,40.266864,29.063448,İnternet üzerinden satış,Giyim,Sanal-Depo,20,3031,15477
+09.01.2017,2017,1,9,17,Çanakkale,1160,Ayvacık / Çanakkale,40.155312,26.41416,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,64,2040,5867
+26.01.2017,2017,1,26,17,Çanakkale,1180,Bayramiç,40.155312,26.41416,İnternet üzerinden satış,Teknoloji,Sanal-Depo,23,3935,997
+28.01.2017,2017,1,28,17,Çanakkale,1190,Biga,40.155312,26.41416,Mağaza Satışı,Ayakkabı,AVM Mağazası,65,2009,8736
+21.02.2019,2019,2,21,17,Çanakkale,1205,Bozcaada,40.155312,26.41416,İnternet üzerinden satış,Teknoloji,Sanal-Depo,23,3671,4962
+20.02.2020,2020,2,20,17,Çanakkale,1229,Çan,40.155312,26.41416,İnternet üzerinden satış,Teknoloji,Sanal-Depo,57,2119,9299
+13.07.2020,2020,7,13,17,Çanakkale,1230,Çanakkale Merkez,40.155312,26.41416,İnternet üzerinden satış,Teknoloji,Sanal-Depo,47,2902,7489
+10.05.2017,2017,5,10,18,Çankırı,1232,Çankırı Merkez,40.601343,33.613421,İnternet üzerinden satış,Giyim,Sanal-Depo,39,1631,12614
+20.04.2019,2019,4,20,18,Çankırı,1248,Çerkeş,40.601343,33.613421,İnternet üzerinden satış,Teknoloji,Sanal-Depo,20,1178,6442
+25.11.2019,2019,11,25,18,Çankırı,1300,Eldivan,40.601343,33.613421,İnternet üzerinden satış,Giyim,Sanal-Depo,34,1252,13451
+12.02.2018,2018,2,12,19,Çorum,1124,Alaca,40.550556,34.955556,Mağaza Satışı,Dekorasyon,AVM Mağazası,45,2137,13524
+03.09.2018,2018,9,3,19,Çorum,1177,Bayat / Çorum,40.550556,34.955556,İnternet üzerinden satış,Teknoloji,Sanal-Depo,43,2999,8833
+22.12.2018,2018,12,22,19,Çorum,1259,Çorum Merkez,40.550556,34.955556,İnternet üzerinden satış,Giyim,Sanal-Depo,55,3503,8447
+26.07.2019,2019,7,26,19,Çorum,1414,İskilip,40.550556,34.955556,İnternet üzerinden satış,Giyim,Sanal-Depo,63,3687,22270
+13.01.2017,2017,1,13,20,Denizli,1102,Acıpayam,37.77652,29.08639,İnternet üzerinden satış,Giyim,Sanal-Depo,50,2579,12214
+22.02.2019,2019,2,22,20,Denizli,1214,Buldan,37.77652,29.08639,İnternet üzerinden satış,Giyim,Sanal-Depo,59,1185,4540
+05.08.2019,2019,8,5,20,Denizli,1224,Çal,37.77652,29.08639,İnternet üzerinden satış,Giyim,Sanal-Depo,42,3688,6738
+12.06.2020,2020,6,12,20,Denizli,1226,Çameli,37.77652,29.08639,Tv Üzerinden,Aksesuar,Sanal-Depo,63,3957,10495
+15.08.2018,2018,8,15,21,Diyarbakır,1195,Bismil,37.91441,40.230629,İnternet üzerinden satış,Teknoloji,Sanal-Depo,69,1841,15145
+26.11.2018,2018,11,26,21,Diyarbakır,1249,Çermik,37.91441,40.230629,Mağaza Satışı,Ayakkabı,AVM Mağazası,58,1647,18770
+23.04.2019,2019,4,23,21,Diyarbakır,1253,Çınar,37.91441,40.230629,İnternet üzerinden satış,Giyim,Sanal-Depo,34,3961,5143
+16.12.2019,2019,12,16,21,Diyarbakır,1263,Çüngüş,37.91441,40.230629,Tv Üzerinden,Aksesuar,Sanal-Depo,15,1063,6504
+15.02.2017,2017,2,15,22,Edirne,1295,Edirne Merkez,41.681808,26.562269,İnternet üzerinden satış,Teknoloji,Sanal-Depo,48,3628,12600
+02.02.2018,2018,2,2,22,Edirne,1307,Enez,41.681808,26.562269,Mağaza Satışı,Ayakkabı,AVM Mağazası,46,3092,13924
+27.04.2018,2018,4,27,22,Edirne,1385,Havsa,41.681808,26.562269,İnternet üzerinden satış,Teknoloji,Sanal-Depo,15,1035,1751
+04.02.2019,2019,2,4,22,Edirne,1412,İpsala,41.681808,26.562269,İnternet üzerinden satış,Giyim,Sanal-Depo,44,2701,12952
+10.09.2019,2019,9,10,22,Edirne,1464,Keşan,41.681808,26.562269,İnternet üzerinden satış,Teknoloji,Sanal-Depo,15,2930,18290
+06.04.2017,2017,4,6,23,Elazığ,1110,Ağın,38.680969,39.226398,İnternet üzerinden satış,Giyim,Sanal-Depo,56,3694,2523
+18.09.2017,2017,9,18,23,Elazığ,1173,Baskil,38.680969,39.226398,Mağaza Satışı,Ayakkabı,AVM Mağazası,13,1017,9657
+05.04.2018,2018,4,5,23,Elazığ,1298,Elazığ Merkez,38.680969,39.226398,İnternet üzerinden satış,Teknoloji,Sanal-Depo,61,3286,3492
+06.06.2019,2019,6,6,23,Elazığ,1438,Karakoçan,38.680969,39.226398,İnternet üzerinden satış,Teknoloji,Sanal-Depo,32,2792,7821
+21.02.2018,2018,2,21,24,Erzincan,1243,Çayırlı,39.75,39.5,İnternet üzerinden satış,Teknoloji,Sanal-Depo,32,2420,5108
+24.07.2018,2018,7,24,24,Erzincan,1318,Erzincan Merkez,39.75,39.5,İnternet üzerinden satış,Giyim,Sanal-Depo,69,3945,1140
+20.12.2018,2018,12,20,24,Erzincan,1406,İliç,39.75,39.5,Tv Üzerinden,Aksesuar,Sanal-Depo,39,3261,1576
+22.03.2020,2020,3,22,24,Erzincan,1459,Kemah,39.75,39.5,İnternet üzerinden satış,Giyim,Sanal-Depo,13,1541,2215
+17.05.2020,2020,5,17,24,Erzincan,1460,Kemaliye,39.75,39.5,İnternet üzerinden satış,Giyim,Sanal-Depo,65,1435,2023
+01.09.2020,2020,9,1,24,Erzincan,1583,Refahiye,39.75,39.5,İnternet üzerinden satış,Giyim,Sanal-Depo,60,1624,17534
+19.09.2019,2019,9,19,25,Erzurum,1153,Aşkale,39.9,41.27,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,37,2418,17402
+03.11.2019,2019,11,3,25,Erzurum,1235,Çat,39.9,41.27,İnternet üzerinden satış,Giyim,Sanal-Depo,40,2307,9380
+26.12.2019,2019,12,26,25,Erzurum,1319,Erzurum Merkez,39.9,41.27,İnternet üzerinden satış,Giyim,Sanal-Depo,29,2910,9726
+28.03.2020,2020,3,28,25,Erzurum,1392,Hınıs,39.9,41.27,İnternet üzerinden satış,Teknoloji,Sanal-Depo,30,2829,5392
+24.10.2020,2020,10,24,25,Erzurum,1396,Horasan,39.9,41.27,İnternet üzerinden satış,Teknoloji,Sanal-Depo,56,3813,3043
+05.02.2017,2017,2,5,26,Eskişehir,1255,Çifteler,39.776667,30.520556,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,17,2209,27878
+23.05.2018,2018,5,23,26,Eskişehir,1322,Eskişehir Merkez,39.776667,30.520556,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,40,3209,7282
+15.04.2019,2019,4,15,26,Eskişehir,1508,Mahmudiye,39.776667,30.520556,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,18,3860,6913
+16.08.2020,2020,8,16,26,Eskişehir,1527,Mihalıççık,39.776667,30.520556,İnternet üzerinden satış,Giyim,Sanal-Depo,51,2226,2959
+06.10.2017,2017,10,6,27,Gaziantep,1139,Araban,37.06622,37.38332,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,32,3390,4912
+03.12.2017,2017,12,3,27,Gaziantep,1415,İslahiye,37.06622,37.38332,İnternet üzerinden satış,Giyim,Sanal-Depo,20,3152,15715
+26.05.2018,2018,5,26,27,Gaziantep,1546,Nizip,37.06622,37.38332,İnternet üzerinden satış,Teknoloji,Sanal-Depo,34,3862,4527
+11.11.2020,2020,11,11,27,Gaziantep,1549,Oğuzeli,37.06622,37.38332,Mağaza Satışı,Ayakkabı,AVM Mağazası,43,3774,1857
+02.05.2017,2017,5,2,28,Giresun,1133,Alucra,40.912811,38.38953,İnternet üzerinden satış,Giyim,Sanal-Depo,44,3766,10144
+21.10.2017,2017,10,21,28,Giresun,1212,Bulancak,40.912811,38.38953,Tv Üzerinden,Aksesuar,Sanal-Depo,64,1331,13941
+19.07.2020,2020,7,19,28,Giresun,1272,Dereli,40.912811,38.38953,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,19,2512,12446
+01.06.2018,2018,6,1,29,Gümüşhane,1369,Gümüşhane Merkez,40.438588,39.508556,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,54,3269,16097
+24.09.2019,2019,9,24,29,Gümüşhane,1458,Kelkit,40.438588,39.508556,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,15,1883,3344
+11.05.2020,2020,5,11,29,Gümüşhane,1660,Şiran,40.438588,39.508556,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,28,3096,4000
+09.08.2020,2020,8,9,29,Gümüşhane,1684,Torul,40.438588,39.508556,Tv Üzerinden,Aksesuar,Sanal-Depo,29,3481,19085
+06.08.2017,2017,8,6,30,Hakkâri,1261,Çukurca,37.583333,43.733333,İnternet üzerinden satış,Giyim,Sanal-Depo,37,3682,11060
+06.05.2020,2020,5,6,30,Hakkâri,1377,Hakkari Merkez,37.583333,43.733333,İnternet üzerinden satış,Giyim,Sanal-Depo,46,3920,6064
+07.06.2017,2017,6,7,31,Hatay,1131,Altınözü,36.401849,36.34981,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,33,2572,8361
+08.09.2019,2019,9,8,31,Hatay,1289,Dörtyol,36.401849,36.34981,İnternet üzerinden satış,Teknoloji,Sanal-Depo,25,2579,16875
+18.10.2019,2019,10,18,31,Hatay,1382,Hassa,36.401849,36.34981,İnternet üzerinden satış,Teknoloji,Sanal-Depo,30,1801,7075
+02.03.2020,2020,3,2,31,Hatay,1383,Hatay Merkez,36.401849,36.34981,İnternet üzerinden satış,Teknoloji,Sanal-Depo,64,2024,4280
+13.08.2020,2020,8,13,31,Hatay,1413,İskenderun,36.401849,36.34981,İnternet üzerinden satış,Giyim,Sanal-Depo,52,1765,6720
+01.08.2017,2017,8,1,32,Isparta,1154,Atabey,37.764771,30.556561,İnternet üzerinden satış,Giyim,Sanal-Depo,67,2309,11005
+16.03.2018,2018,3,16,32,Isparta,1297,Eğirdir,37.764771,30.556561,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,62,3998,20542
+11.02.2019,2019,2,11,32,Isparta,1341,Gelendost,37.764771,30.556561,İnternet üzerinden satış,Giyim,Sanal-Depo,38,3808,13973
+22.03.2019,2019,3,22,32,Isparta,1401,Isparta Merkez,37.764771,30.556561,Tv Üzerinden,Aksesuar,Sanal-Depo,28,3507,16257
+11.03.2018,2018,3,11,33,Mersin,1135,Anamur,36.8,34.633333,Tv Üzerinden,Aksesuar,Sanal-Depo,44,3403,4476
+04.07.2018,2018,7,4,33,Mersin,1311,Erdemli,36.8,34.633333,İnternet üzerinden satış,Giyim,Sanal-Depo,62,3207,14773
+12.08.2018,2018,8,12,33,Mersin,1366,Gülnar,36.8,34.633333,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,31,1594,2990
+03.12.2018,2018,12,3,33,Mersin,1402,Mersin Merkez,36.8,34.633333,İnternet üzerinden satış,Teknoloji,Sanal-Depo,70,2498,3038
+20.03.2020,2020,3,20,33,Mersin,1536,Mut,36.8,34.633333,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,55,1517,3973
+26.06.2020,2020,6,26,33,Mersin,1621,Silifke,36.8,34.633333,Tv Üzerinden,Aksesuar,Sanal-Depo,42,1665,14410
+17.02.2017,2017,2,17,34,İstanbul,1103,Adalar,41.00527,28.97696,Tv Üzerinden,Aksesuar,Sanal-Depo,41,1748,7389
+03.07.2017,2017,7,3,34,İstanbul,1166,Bakırköy,41.00527,28.97696,İnternet üzerinden satış,Giyim,Sanal-Depo,29,3463,3502
+17.10.2017,2017,10,17,34,İstanbul,1183,Beşiktaş,41.00527,28.97696,İnternet üzerinden satış,Giyim,Sanal-Depo,19,1695,2402
+11.06.2020,2020,6,11,34,İstanbul,1185,Beykoz,41.00527,28.97696,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,26,3018,10844
+24.02.2017,2017,2,24,35,İzmir,1128,Aliağa,38.41885,27.12872,İnternet üzerinden satış,Giyim,Sanal-Depo,59,2021,1196
+20.01.2020,2020,1,20,35,İzmir,1178,Bayındır,38.41885,27.12872,İnternet üzerinden satış,Giyim,Sanal-Depo,38,1130,4392
+29.06.2020,2020,6,29,35,İzmir,1181,Bergama,38.41885,27.12872,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,41,2420,740
+22.06.2017,2017,6,22,36,Kars,1149,Arpaçay,40.616667,43.1,İnternet üzerinden satış,Giyim,Sanal-Depo,58,2610,19497
+16.07.2019,2019,7,16,36,Kars,1279,Digor,40.616667,43.1,İnternet üzerinden satış,Teknoloji,Sanal-Depo,57,2861,23320
+13.04.2020,2020,4,13,36,Kars,1424,Kağızman,40.616667,43.1,Tv Üzerinden,Aksesuar,Sanal-Depo,34,3317,13555
+03.10.2020,2020,10,3,36,Kars,1447,Kars Merkez,40.616667,43.1,İnternet üzerinden satış,Teknoloji,Sanal-Depo,58,3493,20747
+17.12.2020,2020,12,17,36,Kars,1601,Sarıkamış,40.616667,43.1,Tv Üzerinden,Aksesuar,Sanal-Depo,30,2695,16664
+11.01.2017,2017,1,11,37,Kastamonu,1101,Abana,41.38871,33.78273,Tv Üzerinden,Aksesuar,Sanal-Depo,55,3361,5632
+06.10.2018,2018,10,6,37,Kastamonu,1140,Araç,41.38871,33.78273,Tv Üzerinden,Aksesuar,Sanal-Depo,28,3267,2479
+19.06.2020,2020,6,19,37,Kastamonu,1162,Azdavay,41.38871,33.78273,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,49,1702,5330
+10.09.2020,2020,9,10,37,Kastamonu,1208,Bozkurt / Kastamonu,41.38871,33.78273,İnternet üzerinden satış,Teknoloji,Sanal-Depo,51,2128,8839
+13.09.2019,2019,9,13,38,Kayseri,1218,Bünyan,38.73122,35.478729,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,47,3239,4009
+21.06.2017,2017,6,21,39,Kırklareli,1163,Babaeski,41.733333,27.216667,İnternet üzerinden satış,Giyim,Sanal-Depo,29,3135,14278
+06.08.2017,2017,8,6,39,Kırklareli,1270,Demirköy,41.733333,27.216667,İnternet üzerinden satış,Teknoloji,Sanal-Depo,26,1221,13896
+14.12.2018,2018,12,14,39,Kırklareli,1471,Kırklareli Merkez,41.733333,27.216667,Tv Üzerinden,Aksesuar,Sanal-Depo,53,1465,11203
+08.04.2020,2020,4,8,39,Kırklareli,1480,Kofçaz,41.733333,27.216667,İnternet üzerinden satış,Giyim,Sanal-Depo,28,1440,9456
+22.09.2020,2020,9,22,39,Kırklareli,1505,Lüleburgaz,41.733333,27.216667,İnternet üzerinden satış,Teknoloji,Sanal-Depo,17,2229,4137
+12.02.2017,2017,2,12,40,Kırşehir,1254,Çiçekdağı,39.14249,34.17091,İnternet üzerinden satış,Giyim,Sanal-Depo,63,1977,5457
+01.09.2019,2019,9,1,40,Kırşehir,1429,Kaman,39.14249,34.17091,İnternet üzerinden satış,Giyim,Sanal-Depo,61,3264,15732
+16.08.2020,2020,8,16,40,Kırşehir,1472,Kırşehir Merkez,39.14249,34.17091,Tv Üzerinden,Aksesuar,Sanal-Depo,70,3849,18105
+01.07.2017,2017,7,1,41,Kocaeli,1338,Gebze,40.85327,29.88152,Mağaza Satışı,Ayakkabı,AVM Mağazası,13,3452,10754
+14.05.2020,2020,5,14,41,Kocaeli,1355,Gölcük,40.85327,29.88152,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,64,3334,13653
+18.06.2020,2020,6,18,41,Kocaeli,1430,Kandıra,40.85327,29.88152,İnternet üzerinden satış,Teknoloji,Sanal-Depo,67,1492,19777
+16.07.2020,2020,7,16,42,Konya,1122,Akşehir,37.866667,32.483333,İnternet üzerinden satış,Giyim,Sanal-Depo,42,2886,850
+26.04.2017,2017,4,26,43,Kütahya,1132,Altıntaş,39.416667,29.983333,İnternet üzerinden satış,Giyim,Sanal-Depo,29,2277,7640
+15.06.2017,2017,6,15,43,Kütahya,1288,Domaniç,39.416667,29.983333,İnternet üzerinden satış,Teknoloji,Sanal-Depo,47,2585,7872
+02.01.2018,2018,1,2,43,Kütahya,1304,Emet,39.416667,29.983333,İnternet üzerinden satış,Giyim,Sanal-Depo,46,1847,13736
+18.04.2018,2018,4,18,43,Kütahya,1339,Gediz,39.416667,29.983333,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,58,1384,21077
+15.08.2018,2018,8,15,43,Kütahya,1500,Kütahya Merkez,39.416667,29.983333,Mağaza Satışı,Ayakkabı,AVM Mağazası,18,3056,20516
+15.08.2020,2020,8,15,43,Kütahya,1625,Simav,39.416667,29.983333,İnternet üzerinden satış,Giyim,Sanal-Depo,70,2743,18654
+01.09.2019,2019,9,1,44,Malatya,1114,Akçadağ,38.35519,38.30946,İnternet üzerinden satış,Teknoloji,Sanal-Depo,60,3555,11248
+15.01.2019,2019,1,15,45,Manisa,1118,Akhisar,38.619099,27.428921,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,54,1171,7245
+13.05.2019,2019,5,13,45,Manisa,1127,Alaşehir,38.619099,27.428921,İnternet üzerinden satış,Giyim,Sanal-Depo,15,1479,17485
+02.05.2020,2020,5,2,45,Manisa,1269,Demirci,38.619099,27.428921,İnternet üzerinden satış,Giyim,Sanal-Depo,19,2382,2125
+13.08.2019,2019,8,13,46,Kahramanmaraş,1107,Afşin,37.585831,36.937149,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,50,2853,14602
+16.05.2017,2017,5,16,47,Mardin,1273,Derik,37.321163,40.724477,Mağaza Satışı,Ayakkabı,AVM Mağazası,53,1912,1453
+02.07.2018,2018,7,2,47,Mardin,1474,Kızıltepe,37.321163,40.724477,İnternet üzerinden satış,Teknoloji,Sanal-Depo,14,3277,3972
+16.08.2019,2019,8,16,47,Mardin,1516,Mardin Merkez,37.321163,40.724477,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,14,1105,1939
+25.12.2020,2020,12,25,47,Mardin,1519,Mazıdağı,37.321163,40.724477,İnternet üzerinden satış,Teknoloji,Sanal-Depo,68,3211,10468
+02.08.2017,2017,8,2,48,Muğla,1197,Bodrum,37.215278,28.363611,İnternet üzerinden satış,Giyim,Sanal-Depo,57,1307,22159
+02.09.2018,2018,9,2,48,Muğla,1266,Datça,37.215278,28.363611,Tv Üzerinden,Aksesuar,Sanal-Depo,16,2930,6145
+26.12.2019,2019,12,26,48,Muğla,1331,Fethiye,37.215278,28.363611,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,68,1022,3212
+24.01.2020,2020,1,24,48,Muğla,1488,Köyceğiz,37.215278,28.363611,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,66,3099,11534
+23.02.2020,2020,2,23,48,Muğla,1517,Marmaris,37.215278,28.363611,İnternet üzerinden satış,Teknoloji,Sanal-Depo,47,3220,20457
+23.08.2017,2017,8,23,49,Muş,1213,Bulanık,38.946189,41.753893,Mağaza Satışı,Ayakkabı,AVM Mağazası,15,3120,25286
+23.05.2019,2019,5,23,49,Muş,1510,Malazgirt,38.946189,41.753893,İnternet üzerinden satış,Giyim,Sanal-Depo,21,2291,2730
+24.09.2019,2019,9,24,49,Muş,1534,Muş Merkez,38.946189,41.753893,İnternet üzerinden satış,Giyim,Sanal-Depo,43,3121,9963
+10.11.2019,2019,11,10,49,Muş,1711,Varto,38.946189,41.753893,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,16,2296,23830
+28.09.2020,2020,9,28,49,Muş,1801,Hasköy,38.946189,41.753893,İnternet üzerinden satış,Giyim,Sanal-Depo,67,2067,5297
+10.05.2018,2018,5,10,50,Nevşehir,1155,Avanos,38.69394,34.685651,İnternet üzerinden satış,Giyim,Sanal-Depo,53,1689,5062
+03.07.2018,2018,7,3,50,Nevşehir,1274,Derinkuyu,38.69394,34.685651,İnternet üzerinden satış,Giyim,Sanal-Depo,46,2120,10740
+11.11.2018,2018,11,11,50,Nevşehir,1367,Gülşehir,38.69394,34.685651,İnternet üzerinden satış,Giyim,Sanal-Depo,64,1443,8405
+07.09.2020,2020,9,7,50,Nevşehir,1374,Hacıbektaş,38.69394,34.685651,İnternet üzerinden satış,Teknoloji,Sanal-Depo,22,3075,8716
+24.10.2020,2020,10,24,50,Nevşehir,1485,Kozaklı,38.69394,34.685651,İnternet üzerinden satış,Giyim,Sanal-Depo,46,2847,19131
+23.04.2018,2018,4,23,51,Niğde,1201,Bor,37.966667,34.683333,İnternet üzerinden satış,Giyim,Sanal-Depo,40,2862,19564
+28.04.2018,2018,4,28,51,Niğde,1225,Çamardı,37.966667,34.683333,İnternet üzerinden satış,Giyim,Sanal-Depo,26,2006,3630
+13.11.2020,2020,11,13,51,Niğde,1544,Niğde Merkez,37.966667,34.683333,İnternet üzerinden satış,Giyim,Sanal-Depo,14,2529,5237
+10.07.2018,2018,7,10,52,Ordu,1119,Akkuş,40.983879,37.876411,İnternet üzerinden satış,Giyim,Sanal-Depo,11,3501,10608
+01.10.2018,2018,10,1,52,Ordu,1158,Aybastı,40.983879,37.876411,İnternet üzerinden satış,Giyim,Sanal-Depo,14,3209,23124
+01.06.2019,2019,6,1,52,Ordu,1328,Fatsa,40.983879,37.876411,İnternet üzerinden satış,Teknoloji,Sanal-Depo,17,3724,17069
+22.12.2017,2017,12,22,53,Rize,1146,Ardeşen,41.02005,40.523449,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,14,2048,3283
+17.07.2019,2019,7,17,54,Sakarya,1123,Akyazı,40.693997,30.435763,İnternet üzerinden satış,Teknoloji,Sanal-Depo,27,2024,5928
+19.10.2017,2017,10,19,55,Samsun,1125,Alaçam,41.292782,36.33128,İnternet üzerinden satış,Teknoloji,Sanal-Depo,25,2038,685
+22.02.2018,2018,2,22,55,Samsun,1164,Bafra,41.292782,36.33128,İnternet üzerinden satış,Teknoloji,Sanal-Depo,69,2681,10020
+17.03.2020,2020,3,17,55,Samsun,1234,Çarşamba,41.292782,36.33128,İnternet üzerinden satış,Giyim,Sanal-Depo,33,2330,4228
+24.03.2020,2020,3,24,55,Samsun,1386,Havza,41.292782,36.33128,Mağaza Satışı,Ayakkabı,AVM Mağazası,55,3860,12339
+25.04.2018,2018,4,25,57,Sinop,1156,Ayancık,42.02314,35.153069,İnternet üzerinden satış,Giyim,Sanal-Depo,57,3267,15169
+26.09.2018,2018,9,26,57,Sinop,1204,Boyabat,42.02314,35.153069,İnternet üzerinden satış,Teknoloji,Sanal-Depo,26,2347,14806
+26.03.2019,2019,3,26,57,Sinop,1290,Durağan,42.02314,35.153069,İnternet üzerinden satış,Giyim,Sanal-Depo,47,3696,5796
+20.10.2020,2020,10,20,57,Sinop,1314,Erfelek,42.02314,35.153069,Mağaza Satışı,Ayakkabı,AVM Mağazası,66,1031,4608
+28.10.2017,2017,10,28,58,Sivas,1282,Divriği,39.747662,37.017879,Tv Üzerinden,Aksesuar,Sanal-Depo,36,3942,3333
+12.11.2017,2017,11,12,58,Sivas,1342,Gemerek,39.747662,37.017879,İnternet üzerinden satış,Giyim,Sanal-Depo,45,2916,3845
+11.01.2020,2020,1,11,59,Tekirdağ,1250,Çerkezköy,40.983333,27.516667,İnternet üzerinden satış,Giyim,Sanal-Depo,41,1124,1703
+02.08.2020,2020,8,2,59,Tekirdağ,1258,Çorlu,40.983333,27.516667,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,68,1825,8092
+15.09.2019,2019,9,15,60,Tokat,1129,Almus,40.316667,36.55,İnternet üzerinden satış,Giyim,Sanal-Depo,12,2065,11702
+06.01.2020,2020,1,6,60,Tokat,1151,Artova,40.316667,36.55,İnternet üzerinden satış,Teknoloji,Sanal-Depo,13,1042,6950
+21.11.2020,2020,11,21,60,Tokat,1308,Erbaa,40.316667,36.55,İnternet üzerinden satış,Giyim,Sanal-Depo,16,1348,11138
+27.10.2018,2018,10,27,61,Trabzon,1113,Akçaabat,41.00145,39.7178,İnternet üzerinden satış,Teknoloji,Sanal-Depo,64,1472,21336
+13.11.2019,2019,11,13,61,Trabzon,1141,Araklı,41.00145,39.7178,İnternet üzerinden satış,Giyim,Sanal-Depo,59,3371,10630
+04.08.2020,2020,8,4,62,Tunceli,1247,Çemişgezek,39.307355,39.438778,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,50,3526,15484
+15.06.2018,2018,6,15,63,Şanlıurfa,1115,Akçakale,37.159149,38.796909,İnternet üzerinden satış,Teknoloji,Sanal-Depo,10,2998,9160
+09.02.2019,2019,2,9,63,Şanlıurfa,1194,Birecik,37.159149,38.796909,İnternet üzerinden satış,Teknoloji,Sanal-Depo,11,2208,17526
+25.05.2020,2020,5,25,63,Şanlıurfa,1209,Bozova,37.159149,38.796909,İnternet üzerinden satış,Teknoloji,Sanal-Depo,51,1955,7001
+06.09.2020,2020,9,6,64,Uşak,1170,Banaz,38.682301,29.40819,Tv Üzerinden,Aksesuar,Sanal-Depo,48,3928,1389
+19.09.2020,2020,9,19,64,Uşak,1323,Eşme,38.682301,29.40819,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,32,3853,8556
+11.06.2020,2020,6,11,65,Van,1175,Başkale,38.48914,43.40889,İnternet üzerinden satış,Giyim,Sanal-Depo,20,2598,22444
+12.01.2017,2017,1,12,66,Yozgat,1117,Akdağmadeni,39.818081,34.81469,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,26,1416,10802
+03.09.2019,2019,9,3,66,Yozgat,1198,Boğazlıyan,39.818081,34.81469,Tv Üzerinden,Aksesuar,Sanal-Depo,10,1433,2687
+16.01.2017,2017,1,16,67,Zonguldak,1240,Çaycuma,41.456409,31.798731,İnternet üzerinden satış,Teknoloji,Sanal-Depo,32,3530,19437
+23.01.2018,2018,1,23,67,Zonguldak,1276,Devrek,41.456409,31.798731,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,60,3477,9152
+11.02.2018,2018,2,11,67,Zonguldak,1313,Ereğli / Zonguldak,41.456409,31.798731,Mağaza Satışı,Ayakkabı,Mahalle Mağazaları,12,3891,7077
+02.07.2017,2017,7,2,68,Aksaray,1120,Aksaray Merkez,38.36869,34.03698,Tv Üzerinden,Aksesuar,Sanal-Depo,61,2827,11426
+26.05.2020,2020,5,26,68,Aksaray,1557,Ortaköy / Aksaray,38.36869,34.03698,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,63,1933,14090
+25.01.2017,2017,1,25,69,Bayburt,1176,Bayburt Merkez,40.255169,40.22488,İnternet üzerinden satış,Teknoloji,Sanal-Depo,48,1840,20376
+22.02.2018,2018,2,22,69,Bayburt,1767,Aydıntepe,40.255169,40.22488,İnternet üzerinden satış,Teknoloji,Sanal-Depo,30,2210,8073
+13.08.2017,2017,8,13,70,Karaman,1316,Ermenek,37.17593,33.228748,Tv Üzerinden,Aksesuar,Sanal-Depo,15,1347,23170
+22.04.2019,2019,4,22,70,Karaman,1439,Karaman Merkez,37.17593,33.228748,İnternet üzerinden satış,Teknoloji,Sanal-Depo,42,3836,10287
+07.08.2020,2020,8,7,70,Karaman,1768,Ayrancı,37.17593,33.228748,İnternet üzerinden satış,Teknoloji,Sanal-Depo,45,3701,18542
+06.11.2017,2017,11,6,71,Kırıkkale,1268,Delice,39.846821,33.515251,İnternet üzerinden satış,Teknoloji,Sanal-Depo,13,2835,16700
+06.02.2017,2017,2,6,72,Batman,1174,Batman Merkez,37.881168,41.13509,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,24,3572,8160
+30.09.2017,2017,9,30,72,Batman,1184,Beşiri,37.881168,41.13509,Mağaza Satışı,Temizlik Ürünleri,AVM Mağazası,33,1036,3177
+06.06.2020,2020,6,6,72,Batman,1345,Gercüş,37.881168,41.13509,İnternet üzerinden satış,Teknoloji,Sanal-Depo,52,2346,25155
+14.10.2020,2020,10,14,72,Batman,1487,Kozluk,37.881168,41.13509,İnternet üzerinden satış,Teknoloji,Sanal-Depo,68,2664,2310
+23.06.2019,2019,6,23,73,Şırnak,1189,Beytüşşebap,37.418748,42.491834,İnternet üzerinden satış,Teknoloji,Sanal-Depo,30,2773,14405
+18.07.2017,2017,7,18,74,Bartın,1172,Bartın Merkez,41.581051,32.460979,İnternet üzerinden satış,Teknoloji,Sanal-Depo,16,1925,5418
+05.05.2020,2020,5,5,74,Bartın,1496,Kurucaşile,41.581051,32.460979,İnternet üzerinden satış,Teknoloji,Sanal-Depo,50,3737,11305
+21.09.2017,2017,9,21,75,Ardahan,1144,Ardahan Merkez,41.110481,42.702171,İnternet üzerinden satış,Giyim,Sanal-Depo,44,2264,10662
+30.08.2020,2020,8,30,75,Ardahan,1252,Çıldır,41.110481,42.702171,İnternet üzerinden satış,Giyim,Sanal-Depo,14,1232,15525
+16.12.2020,2020,12,16,75,Ardahan,1356,Göle,41.110481,42.702171,İnternet üzerinden satış,Teknoloji,Sanal-Depo,66,1281,6235
+04.05.2018,2018,5,4,76,Iğdır,1142,Aralık,39.887984,44.004836,İnternet üzerinden satış,Giyim,Sanal-Depo,49,3634,2438
+05.03.2019,2019,3,5,76,Iğdır,1398,Iğdır Merkez,39.887984,44.004836,Spot Mağaza Satışı,Ev Eşyası,AVM Mağazası,62,3188,17474
+25.09.2018,2018,9,25,77,Yalova,1716,Yalova Merkez,40.65,29.266667,İnternet üzerinden satış,Giyim,Sanal-Depo,65,1605,20776
+27.02.2019,2019,2,27,77,Yalova,2019,Altınova,40.65,29.266667,Mağaza Satışı,Dekorasyon,Mahalle Mağazaları,32,2996,13340
+26.09.2019,2019,9,26,78,Karabük,1296,Eflani,41.2061,32.62035,Mağaza Satışı,Temizlik Ürünleri,Mahalle Mağazaları,49,2586,11520
+24.01.2017,2017,1,24,80,Osmaniye,1165,Bahçe,37.213026,36.176261,İnternet üzerinden satış,Giyim,Sanal-Depo,14,1515,2548
+28.02.2017,2017,2,28,80,Osmaniye,1423,Kadirli,37.213026,36.176261,İnternet üzerinden satış,Teknoloji,Sanal-Depo,39,1121,1403
