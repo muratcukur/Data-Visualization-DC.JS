@@ -25,13 +25,13 @@ d3.csv("perakende.csv", function (data) {
 
 Then we describe graphs and attach them to html id we described in out html.
 
- var totalProfit = dc.numberDisplay("#totalprofit");	
-            var totalStore = dc.numberDisplay("#totalstore");
-            var totalCustomer = dc.numberDisplay("#totalcustomer");	
-            var profitChart = dc.barChart('#profitmontly');
-            var categoryPie = dc.pieChart('#categorypie');
-            var trChart = dc.geoChoroplethChart("#tr-chart"); 
-            var cityCategoryProfitChart= dc.barChart('#citycategoryprofit')
+var totalProfit = dc.numberDisplay("#totalprofit");	
+var totalStore = dc.numberDisplay("#totalstore");
+var totalCustomer = dc.numberDisplay("#totalcustomer");	
+var profitChart = dc.barChart('#profitmontly');
+var categoryPie = dc.pieChart('#categorypie');
+var trChart = dc.geoChoroplethChart("#tr-chart"); 
+var cityCategoryProfitChart= dc.barChart('#citycategoryprofit')
 
 
 Then our magic functions comes. We use crossfilter multi-dimensional dataset.
