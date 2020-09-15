@@ -11,14 +11,14 @@ So let's start how to do beautiful visualization.
 
 First we import our csv file and convert string to integer :
 
-d3.csv("perakende.csv", function (data) {
-        data.forEach(function(d) {
-        d["yil"] = +d["yil"];
-        d["ay"] = +d["ay"];
-        d["gun"] = +d["gun"];
-        d["magaza_sayisi"] = +d["magaza_sayisi"];
-        d["kar"] = +d["kar"];
-        d["toplam_musteri_sayisi"] = +d["toplam_musteri_sayisi"];
+        d3.csv("perakende.csv", function (data) {
+                data.forEach(function(d) {
+                d["yil"] = +d["yil"];
+                d["ay"] = +d["ay"];
+                d["gun"] = +d["gun"];
+                d["magaza_sayisi"] = +d["magaza_sayisi"];
+                d["kar"] = +d["kar"];
+                d["toplam_musteri_sayisi"] = +d["toplam_musteri_sayisi"];
     });
 
 
