@@ -37,8 +37,8 @@ Then our magic functions comes. We use crossfilter multi-dimensional dataset.
 
 After that we define our dimensions. 
 
-var categoryDim=ndx.dimension(function(d) { return d.kategori;})
-var categoryGroup=categoryDim.group();
+        var categoryDim=ndx.dimension(function(d) { return d.kategori;})
+        var categoryGroup=categoryDim.group();
 
 Finally we use these dimensions to make our graph
 
