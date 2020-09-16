@@ -608,7 +608,7 @@ g.dc-legend text {
             var totalCustomer = dc.numberDisplay("#totalcustomer");	
             var profitChart = dc.barChart('#profitmontly');
             var categoryPie = dc.pieChart('#categorypie');
-            var trChart = dc.geoChoroplethChart("#tr-chart"); 
+          //  var trChart = dc.geoChoroplethChart("#tr-chart"); 
             var cityCategoryProfitChart= dc.barChart('#citycategoryprofit')
     
             ndx = crossfilter(data);
@@ -755,10 +755,10 @@ var tableSpans = tableHeader
  
             var cityProfitGroup = cityDim.group().reduceSum(function(d) {return d.kar;});
 
-            var projection = d3.geo.mercator()
-                        .scale(2700)
-                        .center([35.243322, 38.963745])                      
-                        .precision(0.1);
+         //   var projection = d3.geo.mercator()
+         //               .scale(2700)
+         //               .center([35.243322, 38.963745])                      
+         //               .precision(0.1);
 
     var cityCategoryProfit = cityDim.group().reduce(
             /* callback for when data is added to the current filter results */
@@ -850,28 +850,28 @@ var tableSpans = tableHeader
                     .numberVisible(10)
                     .multiple(true);
 
-            d3.json("/tr-cities-utf8.json", function(statesJson) {
+        //    d3.json("/tr-cities-utf8.json", function(statesJson) {
 
-                            trChart
-                            .width(1700)
-                            .height(500)
-                            .dimension(cityDim)
-                            .group(cityProfitGroup)                           
-                            .colors(d3.scale.quantize().range(['#E6CCCC','#FB8888','#FFA07A', '#FA8072', '#DC143C','#FF4500','#B22222','#8B0000','#800000']))
-                            .colorDomain([0,80000])                 
-                            .colorCalculator(function(d) {
-                                return d ? trChart.colors()(d) : '#ccc';
-                            })
-                            .overlayGeoJson(statesJson.features, "state", function(d) {
-                                return d.properties.name;
-                            })
-                            .projection(projection)
-                            .valueAccessor(function(kv) {
-                            return kv.value;
-                            })
-                            .title(function(d) {
-                                return "City: " + d.key + "\nTotal Profit: " + (d.value ? d3.format(',.0f')(d.value)+" ₺" : 0);
-                        }); 
+          //                    trChart
+           //                   .width(1700)
+           //                   .height(500)
+            //                  .dimension(cityDim)
+              //                .group(cityProfitGroup)                           
+            //                  .colors(d3.scale.quantize().range(['#E6CCCC','#FB8888','#FFA07A', '#FA8072', '#DC143C','#FF4500','#B22222','#8B0000','#800000']))
+             //                 .colorDomain([0,80000])                 
+             //                 .colorCalculator(function(d) {
+             //                     return d ? trChart.colors()(d) : '#ccc';
+              //                })
+               //               .overlayGeoJson(statesJson.features, "state", function(d) {
+                //                  return d.properties.name;
+                 //             })
+                //              .projection(projection)
+                //              .valueAccessor(function(kv) {
+               //               return kv.value;
+                //              })
+                 //             .title(function(d) {
+                 //                 return "City: " + d.key + "\nTotal Profit: " + (d.value ? d3.format(',.0f')(d.value)+" ₺" : 0);
+                 //         }); 
 
             function remove_empty_bins(source_group) {
                 return {
