@@ -86,4 +86,4 @@ Finally we use these dimensions to make our graph
                     
   
 
-Tis is just piechart creation but there are many graph on this work. So feel free to contact me if you have any questions.  
+This is just piechart creation but there are many graph on this work. So feel free to contact me if you have any questions.  
