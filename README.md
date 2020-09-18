@@ -9,7 +9,24 @@ BUT YOU SHOULD LEARN SOME CODING and should know how to handle database, HTML, C
 
 So let's start how to do beautiful visualization.
 
-First we import our csv file and convert string to integer :
+First on our html page we import necessary librarires for css, bootstrap and javascript
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.9/dc.min.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js" type="text/javascript"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+        <script src="https://d3js.org/queue.v1.min.js"></script>
+        <script src="https://dc-js.github.io/dc.js/js/crossfilter.js"></script>
+        <script src="https://dc-js.github.io/dc.js/js/dc.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.14.3/xlsx.core.min.js"></script>
+        <script src="https://raw.githubusercontent.com/muratcu/Data-Visualization-With-DC.JS/gh-pages/d3.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/alasql/0.4.11/alasql.min.js"></script>
+
+To be able to make choropleth map I don't only use cdn of d3.js. I also import local d3.js which support geo.mercator map creation.
+
+Then we import our csv file and convert string to integer :
 
         d3.csv("perakende.csv", function (data) {
                 data.forEach(function(d) {
@@ -21,7 +38,10 @@ First we import our csv file and convert string to integer :
                 d["toplam_musteri_sayisi"] = +d["toplam_musteri_sayisi"];
     });
 
+Then we create crossfilter database out of my data.
 
+        ndx = crossfilter(data);
+ 
 Then we describe graphs and attach them to html id we described in out html.
 
                        var totalProfit = dc.numberDisplay("#totalprofit");	
@@ -64,4 +84,5 @@ Finally we use these dimensions to make our graph
                     .yAxis().tickFormat(d3.format('.3s'));
                     
   
-There are many graph on this work. So feel free to contact me if you have any questions.  
+
+Tis is just piechart creation but there are many graph on this work. So feel free to contact me if you have any questions.  
