@@ -10,6 +10,7 @@ BUT YOU SHOULD LEARN SOME CODING and should know how to handle database, HTML, C
 So let's start how to do beautiful visualization.
 
 First on our html page we import necessary librarires for css, bootstrap and javascript
+
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.9/dc.min.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js" type="text/javascript"></script>
