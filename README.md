@@ -1,14 +1,6 @@
 # Data-Visualization-With-DC.JS
 Retail sales visualization , analyse data  on web with DC.JS , CSS, HTML
 
-For making data visualization you don't need fancy , expensive tools like Tableau , Power BI or any other software.
-
-You can do even better web based visualization without these tools. : ) . 
-
-BUT YOU SHOULD LEARN SOME CODING and should know how to handle database, HTML, CSS , BOOTSTRAP , MYSQL  .... : (
-
-So let's start how to do beautiful visualization.
-
 First on our html page we import necessary librarires for css, bootstrap and javascript
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
