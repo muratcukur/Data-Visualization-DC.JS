@@ -14,7 +14,7 @@
     <script src="https://dc-js.github.io/dc.js/js/dc.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.14.3/xlsx.core.min.js"></script>
-    <script src="https://raw.githubusercontent.com/muratcu/Data-Visualization-With-DC.JS/gh-pages/d3.js"></script>
+    <script src="/d3.js"></script> 
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/alasql/0.4.11/alasql.min.js"></script>
     
@@ -589,7 +589,7 @@ g.dc-legend text {
         var ndx;
         var datatable = dc.dataTable("#dc-data-table");
 
-    d3.csv("perakende.csv", function (data) {
+    d3.csv("/perakende.csv", function (data) {
 
         data.forEach(function(d) {
         d["yil"] = +d["yil"];
@@ -600,7 +600,7 @@ g.dc-legend text {
         d["toplam_musteri_sayisi"] = +d["toplam_musteri_sayisi"];
     });
 
-            //console.log(data)
+            console.log(data)
 
            
             var totalProfit = dc.numberDisplay("#totalprofit");	
@@ -755,7 +755,7 @@ var tableSpans = tableHeader
  
             var cityProfitGroup = cityDim.group().reduceSum(function(d) {return d.kar;});
 
-            var projection = d3.geo.mercator()
+            var projection = d3.geoMercator()
                         .scale(2700)
                         .center([35.243322, 38.963745])                      
                         .precision(0.1);
@@ -984,10 +984,11 @@ var tableSpans = tableHeader
                     updateTable();
                     datatable.redraw();
                     dc.renderAll();
+                   
                  
 
         });
-       
+        
       
         var resultStart = 0 ; var resultEnd = 11;
 
